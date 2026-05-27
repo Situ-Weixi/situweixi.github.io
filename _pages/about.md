@@ -87,3 +87,10 @@ Hanjing Ye, Yu Zhan, <u>Weixi Situ</u>, Guangcheng Chen, Jingwen Yu, Ziqi Zhao, 
 [[arXiv](http://arxiv.org/abs/2505.07446)] [[video](https://youtu.be/LLZT9cEa6K0)] [[site](https://medlartea.github.io/tpt-bench/)]
 </div>
 </div>
+
+# 🎖 Honors and Awards
+- *2024, 2025*: National Scholarship (Top 1%), Southern University of Science and Technology
+- *2024*: Outstanding Undergraduate Graduate (Top 1%), South China Agricultural University
+- *2023*: First Prize, Guangdong Provincial College Student Electronic Design Competition
+- *2021, 2022*: National Scholarship, South China Agricultural University
+- *2021*: Second Prize (Top 5%), National College Student Electronic Design Competition
