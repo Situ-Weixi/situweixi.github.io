@@ -28,6 +28,28 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Publications 
 
+<!-- adap-rpf -->
+<div class='paper-box'>
+<div class='paper-box-image'>
+<a href="https://adap-rpf.github.io/">
+    <video width="100%" autoplay loop muted playsinline>
+    <source src="files/adap-rpf.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+    </video>
+</a>
+</div>
+<div class='paper-box-text' markdown="1">
+
+**Adap-RPF: Adaptive Trajectory Sampling for Robot Person Following in Dynamic Crowded Environments**
+
+<u>Weixi Situ</u>, Hanjing Ye, Jianwei Peng, Yu Zhan, Bingyi Xia, Kuanqi Cai, Hong Zhang
+
+Under Review (ICRA 2026)
+
+[[site](https://adap-rpf.github.io/)]
+</div>
+</div>
+
 <!-- follow-bench -->
 <div class='paper-box'>
 <div class='paper-box-image'>
