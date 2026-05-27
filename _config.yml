@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Weixi Situ"
-description              : "Master's student at SUSTech, working on Robot Person Following"
+description              : "Master's student at SUSTech"
 repository               : "Situ-Weixi/Situ-Weixi.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -28,7 +28,7 @@ author:
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=BBwDT_IAAAAJ&hl=en"
-  email            : "situwx@mail.sustech.edu.cn"
+  email            : "situweixi02@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
