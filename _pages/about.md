@@ -28,6 +28,42 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Publications 
 
+<!-- follow-bench -->
+<div class='paper-box'>
+<div class='paper-box-image'>
+<a href="https://follow-bench.github.io/">
+    <video width="100%" autoplay loop muted playsinline>
+    <source src="files/follow-bench-teaser-1080.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+    </video>
+</a>
+</div>
+<div class='paper-box-text' markdown="1">
+
+**Follow-Bench: A Unified Motion Planning Benchmark for Socially-Aware Robot Person Following**
+
+Hanjing Ye, <u>Weixi Situ</u>, Jianwei Peng, Yu Zhan, Bingyi Xia, Kuanqi Cai, Hong Zhang
+
+Under Review
+
+[[arXiv](https://arxiv.org/abs/2509.10796)] [[site](https://follow-bench.github.io/)] [[github](https://github.com/MedlarTea/follow-bench)]
+</div>
+</div>
+
+<!-- tpt-bench -->
+<div class='paper-box'><div class='paper-box-image'><a href="https://medlartea.github.io/tpt-bench/"><img src='files/tpt_bench.gif' alt="sym" width="100%"></a></div>
+<div class='paper-box-text' markdown="1">
+
+**TPT-Bench: A Large-Scale, Long-Term and Robot-Egocentric Dataset for Benchmarking Target Person Tracking**
+
+Hanjing Ye, Yu Zhan, <u>Weixi Situ</u>, Guangcheng Chen, Jingwen Yu, Ziqi Zhao, Kuanqi Cai, Arash Ajoudani, Hong Zhang
+
+2026 International Journal of Robotics Research (IJRR)
+
+[[arXiv](http://arxiv.org/abs/2505.07446)] [[video](https://youtu.be/LLZT9cEa6K0)] [[site](https://medlartea.github.io/tpt-bench/)]
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
