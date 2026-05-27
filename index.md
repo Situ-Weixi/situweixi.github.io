@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a second-year Master's student at Southern University of Science and Technology (SUSTech), working under the supervision of Prof. Hong Zhang. My research focuses on **Robot Person Following (RPF)** in dynamic and crowded environments, with particular interests in motion planning, trajectory optimization, and human-robot interaction.
+I am a second-year Master's student at <a href="https://www.sustech.edu.cn/en/">Southern University of Science and Technology (SUSTech)</a>, working in the <a href="https://faculty.sustech.edu.cn/zhangh/en/">Robotics and Computer Vision Lab</a> under the supervision of <a href="https://faculty.sustech.edu.cn/zhangh/en/">Prof. Hong Zhang</a>. My research focuses on **Robot Person Following (RPF)** in dynamic and crowded environments, with particular interests in motion planning, trajectory optimization, and human-robot interaction.
 
 My work aims to enable robots to naturally and safely follow people in complex real-world scenarios, addressing challenges such as occlusions, dynamic obstacles, and social navigation. I am passionate about developing practical solutions that bridge the gap between robotics research and real-world applications.
 
