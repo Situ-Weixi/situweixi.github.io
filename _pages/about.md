@@ -89,8 +89,10 @@ Hanjing Ye, Yu Zhan, <u>Weixi Situ</u>, Guangcheng Chen, Jingwen Yu, Ziqi Zhao, 
 </div>
 
 # 🎖 Honors and Awards
-- *2024, 2025*: National Scholarship (Top 1%), Southern University of Science and Technology
+- *2024, 2025*: First-Class Graduate Scholarship, Southern University of Science and Technology
 - *2024*: Outstanding Undergraduate Graduate (Top 1%), South China Agricultural University
+- *2023*: National-Level College Student Innovation and Entrepreneurship Training Program (Project Leader)
 - *2023*: First Prize, Guangdong Provincial College Student Electronic Design Competition
-- *2021, 2022*: National Scholarship, South China Agricultural University
+- *2022*: National-Level College Student Innovation and Entrepreneurship Training Program (Project Leader)
+- *2021, 2022*: National Scholarship (Top 1%), South China Agricultural University
 - *2021*: Second Prize (Top 5%), National College Student Electronic Design Competition
